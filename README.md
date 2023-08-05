@@ -6,13 +6,20 @@ email : bob@gmail.com  (user)
 password : bobbob
 
 Migrations:
-->php artisan migrate
-
+```
+php artisan migrate
+```
 Seeding:
--> php artisan db:seed
+```
+php artisan db:seed
+```
 
 File Upload:
-->php artisan storage:link
+```
+php artisan storage:link
+```
 
 Running the App:
--> php artisan serve
+```
+php artisan serve
+```
